@@ -1,0 +1,420 @@
+[
+  {
+    "id": "prof_001",
+    "name": "Dr. Anand Mishra",
+    "department": "Computer Science and Engineering",
+    "designation": "Assistant Professor",
+    "specialization": ["Computer Vision", "Deep Learning", "Visual Question Answering", "Document Image Analysis"],
+    "email": "anand.mishra@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Scene Text Visual Question Answering using Multimodal Transformers",
+        "year": 2024,
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "abstract": "We propose a novel multimodal transformer architecture for answering questions that require reading and understanding text in natural scene images. Our approach integrates OCR features with visual features using cross-attention mechanisms.",
+        "keywords": ["VQA", "scene text", "transformers", "OCR", "multimodal"]
+      },
+      {
+        "title": "Robust Document Layout Analysis using Graph Neural Networks",
+        "year": 2023,
+        "venue": "International Conference on Document Analysis and Recognition (ICDAR)",
+        "abstract": "This paper presents a graph neural network based approach for document layout analysis that can handle complex multi-column layouts and is robust to noise and distortions commonly found in scanned documents.",
+        "keywords": ["document analysis", "graph neural networks", "layout analysis"]
+      },
+      {
+        "title": "OCR-Free Visual Question Answering on Document Images",
+        "year": 2023,
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "abstract": "We introduce an end-to-end framework for visual question answering on document images that eliminates the need for a separate OCR pipeline, directly learning to read and comprehend document content.",
+        "keywords": ["document VQA", "OCR-free", "end-to-end learning"]
+      }
+    ],
+    "research_summary": "Dr. Anand Mishra's research focuses on the intersection of computer vision and natural language processing, with particular emphasis on visual question answering, scene text understanding, and document image analysis. His work leverages deep learning and transformer architectures to build systems that can read, understand, and reason about visual content.",
+    "projects": [
+      {
+        "title": "Intelligent Document Understanding System for Defence Applications",
+        "funding_agency": "DRDO",
+        "status": "ongoing",
+        "description": "Developing an AI-powered system for automatic understanding and extraction of information from defence documents, maps, and satellite imagery."
+      }
+    ]
+  },
+  {
+    "id": "prof_002",
+    "name": "Dr. Sumit Kalra",
+    "department": "Computer Science and Engineering",
+    "designation": "Assistant Professor",
+    "specialization": ["Cybersecurity", "Network Security", "Blockchain", "Cryptography"],
+    "email": "sumit.kalra@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Blockchain-based Secure Communication Framework for Military IoT Networks",
+        "year": 2024,
+        "venue": "IEEE Transactions on Information Forensics and Security",
+        "abstract": "We present a lightweight blockchain-based communication framework designed for resource-constrained military IoT devices. The framework ensures data integrity, authentication, and non-repudiation while maintaining low computational overhead.",
+        "keywords": ["blockchain", "military IoT", "secure communication", "lightweight cryptography"]
+      },
+      {
+        "title": "Post-Quantum Cryptographic Protocols for Secure Defence Networks",
+        "year": 2023,
+        "venue": "ACM Conference on Computer and Communications Security (CCS)",
+        "abstract": "This paper proposes novel post-quantum cryptographic protocols based on lattice-based constructions for securing defence communication networks against quantum computing threats.",
+        "keywords": ["post-quantum cryptography", "lattice-based", "defence networks"]
+      },
+      {
+        "title": "Intrusion Detection in SCADA Systems using Federated Learning",
+        "year": 2023,
+        "venue": "USENIX Security Symposium",
+        "abstract": "We develop a federated learning-based intrusion detection system for SCADA networks that can detect anomalies without sharing sensitive operational data across network nodes.",
+        "keywords": ["intrusion detection", "SCADA", "federated learning", "anomaly detection"]
+      }
+    ],
+    "research_summary": "Dr. Sumit Kalra specializes in cybersecurity with a focus on securing critical infrastructure and defence systems. His research encompasses blockchain technology, post-quantum cryptography, network security, and Privacy-preserving machine learning techniques for secure communications.",
+    "projects": [
+      {
+        "title": "Quantum-Resistant Cryptographic Infrastructure for Defence",
+        "funding_agency": "Ministry of Defence",
+        "status": "ongoing",
+        "description": "Building quantum-resistant cryptographic solutions for securing defence communication infrastructure against emerging quantum computing threats."
+      }
+    ]
+  },
+  {
+    "id": "prof_003",
+    "name": "Dr. Ravi Bhandari",
+    "department": "Mechanical Engineering",
+    "designation": "Associate Professor",
+    "specialization": ["Unmanned Aerial Vehicles", "Robotics", "Control Systems", "Autonomous Navigation"],
+    "email": "ravi.bhandari@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Autonomous UAV Swarm Navigation using Multi-Agent Reinforcement Learning",
+        "year": 2024,
+        "venue": "IEEE Transactions on Robotics",
+        "abstract": "We propose a multi-agent reinforcement learning framework for coordinating autonomous UAV swarms in complex environments. The framework enables decentralized decision-making while maintaining formation constraints.",
+        "keywords": ["UAV swarm", "multi-agent RL", "autonomous navigation", "formation control"]
+      },
+      {
+        "title": "Robust Path Planning for Military UAVs in GPS-Denied Environments",
+        "year": 2023,
+        "venue": "International Conference on Robotics and Automation (ICRA)",
+        "abstract": "This paper presents a vision-based path planning algorithm for military UAVs operating in GPS-denied environments, using SLAM and terrain matching for localization.",
+        "keywords": ["UAV", "path planning", "GPS-denied", "SLAM", "terrain matching"]
+      },
+      {
+        "title": "Hybrid Propulsion System Design for Long-Endurance Defence UAVs",
+        "year": 2022,
+        "venue": "AIAA Journal",
+        "abstract": "We design and analyze a hybrid electric-fuel propulsion system for long-endurance defence UAVs that can operate for extended missions while carrying significant payloads.",
+        "keywords": ["hybrid propulsion", "UAV", "endurance", "defence"]
+      }
+    ],
+    "research_summary": "Dr. Ravi Bhandari's research focuses on unmanned aerial vehicles and autonomous systems for defence applications. His work spans autonomous navigation, swarm robotics, control systems, and UAV design optimization for military operations.",
+    "projects": [
+      {
+        "title": "Autonomous Surveillance UAV Swarm System",
+        "funding_agency": "Indian Army",
+        "status": "completed",
+        "description": "Developed an autonomous UAV swarm system for border surveillance with capabilities for real-time threat detection and coordinated response."
+      },
+      {
+        "title": "Anti-Drone Defence System",
+        "funding_agency": "DRDO",
+        "status": "ongoing",
+        "description": "Developing counter-drone technologies using radar, electronic warfare, and kinetic interceptors for protecting critical defence installations."
+      }
+    ]
+  },
+  {
+    "id": "prof_004",
+    "name": "Dr. Priya Sharma",
+    "department": "Electrical Engineering",
+    "designation": "Associate Professor",
+    "specialization": ["Radar Signal Processing", "Electronic Warfare", "MIMO Systems", "Cognitive Radar"],
+    "email": "priya.sharma@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Cognitive MIMO Radar with Adaptive Waveform Design for Target Classification",
+        "year": 2024,
+        "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+        "abstract": "We develop a cognitive MIMO radar system that adaptively designs waveforms based on the environment and target characteristics. The system uses deep reinforcement learning to optimize waveform parameters for improved target detection and classification.",
+        "keywords": ["cognitive radar", "MIMO", "waveform design", "deep reinforcement learning"]
+      },
+      {
+        "title": "Electronic Counter-Countermeasures using Deep Learning",
+        "year": 2023,
+        "venue": "IEEE Radar Conference",
+        "abstract": "This paper proposes a deep learning framework for electronic counter-countermeasures (ECCM) that can identify and mitigate jamming signals in real-time for defence radar systems.",
+        "keywords": ["ECCM", "jamming", "deep learning", "radar"]
+      },
+      {
+        "title": "Sparse Signal Recovery for Through-Wall Radar Imaging",
+        "year": 2022,
+        "venue": "IEEE Transactions on Signal Processing",
+        "abstract": "We present compressed sensing based algorithms for through-wall radar imaging that can detect and localize human targets behind walls using sparse signal recovery techniques.",
+        "keywords": ["through-wall radar", "compressed sensing", "sparse recovery", "human detection"]
+      }
+    ],
+    "research_summary": "Dr. Priya Sharma specializes in radar signal processing and electronic warfare systems. Her research includes cognitive radar systems, MIMO radar, electronic countermeasures, and signal processing techniques for defence surveillance and reconnaissance.",
+    "projects": [
+      {
+        "title": "Next-Generation Cognitive Radar for Air Defence",
+        "funding_agency": "Indian Air Force",
+        "status": "ongoing",
+        "description": "Developing advanced cognitive radar algorithms for India's air defence network with capabilities for automatic target recognition and electronic protection."
+      }
+    ]
+  },
+  {
+    "id": "prof_005",
+    "name": "Dr. Vikram Singh",
+    "department": "Computer Science and Engineering",
+    "designation": "Professor",
+    "specialization": ["Natural Language Processing", "Information Retrieval", "Text Mining", "Knowledge Graphs"],
+    "email": "vikram.singh@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Multilingual Intelligence Report Summarization using Large Language Models",
+        "year": 2024,
+        "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+        "abstract": "We present a multilingual summarization system for defence intelligence reports that can process documents in Hindi, English, and other Indian languages, generating concise actionable summaries.",
+        "keywords": ["multilingual NLP", "summarization", "intelligence reports", "LLM"]
+      },
+      {
+        "title": "Knowledge Graph Construction from Unstructured Defence Literature",
+        "year": 2023,
+        "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+        "abstract": "This paper introduces an automated system for constructing knowledge graphs from unstructured defence literature, enabling structured querying and reasoning over large document collections.",
+        "keywords": ["knowledge graphs", "information extraction", "defence literature", "NER"]
+      },
+      {
+        "title": "Sentiment and Threat Analysis from Social Media for Defence Intelligence",
+        "year": 2022,
+        "venue": "International Conference on Computational Linguistics (COLING)",
+        "abstract": "We develop NLP models for analyzing social media content to identify potential security threats and gauge public sentiment on defence-related topics across multiple languages.",
+        "keywords": ["sentiment analysis", "threat detection", "social media", "multilingual"]
+      }
+    ],
+    "research_summary": "Dr. Vikram Singh's research is centered on natural language processing and information retrieval with applications in defence intelligence. His work includes multilingual text analysis, knowledge graph construction, and automated intelligence report processing.",
+    "projects": [
+      {
+        "title": "Automated Defence Intelligence Analysis Platform",
+        "funding_agency": "RAW/Intelligence Bureau",
+        "status": "ongoing",
+        "description": "Building an NLP-powered platform for automated analysis of intelligence reports, social media feeds, and open-source intelligence for defence applications."
+      }
+    ]
+  },
+  {
+    "id": "prof_006",
+    "name": "Dr. Meera Patel",
+    "department": "Materials Engineering",
+    "designation": "Assistant Professor",
+    "specialization": ["Armour Materials", "Composite Materials", "Ballistic Impact", "Nanomaterials"],
+    "email": "meera.patel@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Boron Carbide-Graphene Nanocomposites for Next-Generation Body Armour",
+        "year": 2024,
+        "venue": "Advanced Materials",
+        "abstract": "We synthesize and characterize boron carbide-graphene nanocomposites that show superior ballistic performance compared to conventional ceramic armour, with 30% weight reduction while maintaining equivalent protection levels.",
+        "keywords": ["body armour", "boron carbide", "graphene", "nanocomposites", "ballistic"]
+      },
+      {
+        "title": "Multi-layered Ceramic-Metal Armour System Design using Finite Element Analysis",
+        "year": 2023,
+        "venue": "International Journal of Impact Engineering",
+        "abstract": "This paper presents an optimized multi-layered ceramic-metal armour system designed using FEA simulations validated with ballistic impact experiments against various threat levels.",
+        "keywords": ["ceramic armour", "FEA", "ballistic impact", "multi-layered"]
+      },
+      {
+        "title": "Self-Healing Polymeric Composites for Blast-Resistant Structures",
+        "year": 2022,
+        "venue": "Composites Science and Technology",
+        "abstract": "We develop self-healing polymer matrix composites with embedded microcapsules that can autonomously repair damage caused by blast loading, extending the service life of defence structures.",
+        "keywords": ["self-healing", "blast resistant", "composites", "microcapsules"]
+      }
+    ],
+    "research_summary": "Dr. Meera Patel's research focuses on advanced materials for defence applications, including next-generation body armour, blast-resistant structures, and nano-enhanced composites. Her work combines materials science with computational modeling to develop lightweight, high-performance protective materials.",
+    "projects": [
+      {
+        "title": "Lightweight Armour Solutions for Infantry Combat Vehicles",
+        "funding_agency": "DRDO - DMRL",
+        "status": "ongoing",
+        "description": "Developing novel lightweight composite armour solutions for infantry combat vehicles that provide enhanced protection against kinetic energy and chemical energy threats."
+      }
+    ]
+  },
+  {
+    "id": "prof_007",
+    "name": "Dr. Rajesh Kumar",
+    "department": "Electrical Engineering",
+    "designation": "Professor",
+    "specialization": ["Satellite Communication", "Antenna Design", "RF & Microwave Engineering", "5G/6G Networks"],
+    "email": "rajesh.kumar@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Reconfigurable Phased Array Antenna for Military Satellite Communications",
+        "year": 2024,
+        "venue": "IEEE Transactions on Antennas and Propagation",
+        "abstract": "We design a reconfigurable phased array antenna system for military satellite communications that provides beam steering, null steering for anti-jamming, and multi-band operation capability.",
+        "keywords": ["phased array", "satellite communication", "reconfigurable antenna", "anti-jamming"]
+      },
+      {
+        "title": "Secure 5G Military Communication Network Architecture",
+        "year": 2023,
+        "venue": "IEEE Communications Magazine",
+        "abstract": "This paper proposes a dedicated 5G network architecture for military communications with network slicing, edge computing, and zero-trust security framework for tactical operations.",
+        "keywords": ["5G", "military communications", "network slicing", "tactical networks"]
+      },
+      {
+        "title": "Low Probability of Intercept Waveforms for Covert Military Communications",
+        "year": 2022,
+        "venue": "IEEE Transactions on Communications",
+        "abstract": "We develop novel low probability of intercept (LPI) and low probability of detection (LPD) waveforms for covert military communications using spread spectrum techniques and machine learning-based signal design.",
+        "keywords": ["LPI", "covert communications", "spread spectrum", "military"]
+      }
+    ],
+    "research_summary": "Dr. Rajesh Kumar's research encompasses satellite communications, antenna engineering, and next-generation wireless networks for defence applications. His work focuses on developing robust, secure, and high-performance communication systems for military use.",
+    "projects": [
+      {
+        "title": "Indigenous Military Satellite Communication Terminal",
+        "funding_agency": "Indian Navy",
+        "status": "completed",
+        "description": "Designed and developed an indigenous satellite communication terminal for naval ships with anti-jamming and low probability of intercept capabilities."
+      },
+      {
+        "title": "5G-based Tactical Communication Network",
+        "funding_agency": "Indian Army Signal Corps",
+        "status": "ongoing",
+        "description": "Developing a 5G-based tactical communication network for field deployment with mesh networking, edge computing, and secure communication capabilities."
+      }
+    ]
+  },
+  {
+    "id": "prof_008",
+    "name": "Dr. Amit Joshi",
+    "department": "Computer Science and Engineering",
+    "designation": "Associate Professor",
+    "specialization": ["Machine Learning", "Explainable AI", "Reinforcement Learning", "AI Ethics"],
+    "email": "amit.joshi@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Explainable AI for Military Decision Support Systems",
+        "year": 2024,
+        "venue": "Nature Machine Intelligence",
+        "abstract": "We propose an explainable AI framework for military decision support systems that provides interpretable recommendations with uncertainty quantification, enabling commanders to understand and trust AI-generated tactical suggestions.",
+        "keywords": ["explainable AI", "decision support", "military", "uncertainty quantification"]
+      },
+      {
+        "title": "Multi-Objective Reinforcement Learning for Autonomous Military Operations",
+        "year": 2023,
+        "venue": "International Conference on Machine Learning (ICML)",
+        "abstract": "This paper presents a multi-objective reinforcement learning framework for planning autonomous military operations that balances multiple competing objectives including mission success, risk minimization, and resource conservation.",
+        "keywords": ["multi-objective RL", "autonomous operations", "military planning"]
+      },
+      {
+        "title": "Adversarial Robustness of Deep Learning Models in Defence Applications",
+        "year": 2023,
+        "venue": "Neural Information Processing Systems (NeurIPS)",
+        "abstract": "We investigate the vulnerability of deep learning models used in defence applications to adversarial attacks and propose novel defence mechanisms including adversarial training and input certification.",
+        "keywords": ["adversarial robustness", "deep learning", "defence applications", "adversarial training"]
+      }
+    ],
+    "research_summary": "Dr. Amit Joshi's research focuses on making AI systems more reliable, interpretable, and robust for high-stakes defence applications. His work spans explainable AI, adversarial machine learning, reinforcement learning for autonomous systems, and ethical AI frameworks.",
+    "projects": [
+      {
+        "title": "Trustworthy AI Framework for Defence Decision Making",
+        "funding_agency": "Centre for AI and Robotics (CAIR), DRDO",
+        "status": "ongoing",
+        "description": "Developing a comprehensive trustworthy AI framework with explainability, robustness, and fairness guarantees for deployment in defence decision-making systems."
+      }
+    ]
+  },
+  {
+    "id": "prof_009",
+    "name": "Dr. Sunita Verma",
+    "department": "Physics",
+    "designation": "Professor",
+    "specialization": ["Laser Physics", "Directed Energy Weapons", "Photonics", "Quantum Optics"],
+    "email": "sunita.verma@iitj.ac.in",
+    "publications": [
+      {
+        "title": "High-Power Fiber Laser System for Defence Counter-UAS Applications",
+        "year": 2024,
+        "venue": "Optics Express",
+        "abstract": "We develop a high-power fiber laser system capable of neutralizing small unmanned aerial systems at ranges up to 2km. The system features adaptive optics for atmospheric turbulence compensation and beam tracking.",
+        "keywords": ["high-power laser", "counter-UAS", "fiber laser", "adaptive optics"]
+      },
+      {
+        "title": "Quantum Key Distribution System for Secure Military Communications",
+        "year": 2023,
+        "venue": "Physical Review Applied",
+        "abstract": "This paper demonstrates a quantum key distribution (QKD) system operating over 100km of optical fiber for securing military communications against eavesdropping, including implementation of decoy state protocols.",
+        "keywords": ["quantum key distribution", "QKD", "military communications", "quantum cryptography"]
+      },
+      {
+        "title": "LIDAR-based Target Detection and Ranging for Air Defence",
+        "year": 2022,
+        "venue": "Applied Optics",
+        "abstract": "We present an advanced LIDAR system for long-range target detection and tracking in air defence scenarios with capabilities for target identification through multi-spectral analysis.",
+        "keywords": ["LIDAR", "target detection", "air defence", "multi-spectral"]
+      }
+    ],
+    "research_summary": "Dr. Sunita Verma's research spans laser physics and photonics with direct applications to defence technology. Her work includes high-power laser systems for directed energy weapons, quantum communication for secure military networks, and LIDAR systems for surveillance and targeting.",
+    "projects": [
+      {
+        "title": "Directed Energy Weapon Prototype for Base Defence",
+        "funding_agency": "DRDO - LASTEC",
+        "status": "ongoing",
+        "description": "Developing a high-energy laser weapon prototype for defending military installations against UAVs, rockets, and mortar shells."
+      }
+    ]
+  },
+  {
+    "id": "prof_010",
+    "name": "Dr. Deepak Tiwari",
+    "department": "Civil Engineering",
+    "designation": "Associate Professor",
+    "specialization": ["Blast Resistant Structures", "Structural Dynamics", "Protective Engineering", "Computational Mechanics"],
+    "email": "deepak.tiwari@iitj.ac.in",
+    "publications": [
+      {
+        "title": "Blast-Resistant Underground Command Center Design using Advanced Concrete Composites",
+        "year": 2024,
+        "venue": "Engineering Structures",
+        "abstract": "We present the design and analysis of a blast-resistant underground command center using ultra-high-performance concrete (UHPC) and steel fiber reinforcement. The design withstands blast loads from conventional weapons and provides NBC protection.",
+        "keywords": ["blast resistant", "underground structure", "UHPC", "command center"]
+      },
+      {
+        "title": "Progressive Collapse Analysis of Military Infrastructure under Multiple Blast Loading",
+        "year": 2023,
+        "venue": "Journal of Structural Engineering",
+        "abstract": "This paper investigates the progressive collapse behavior of military buildings subjected to multiple sequential blast loads, proposing design guidelines for improved structural resilience.",
+        "keywords": ["progressive collapse", "blast loading", "military infrastructure", "structural resilience"]
+      },
+      {
+        "title": "Machine Learning-based Rapid Damage Assessment for Military Structures",
+        "year": 2022,
+        "venue": "Automation in Construction",
+        "abstract": "We develop a machine learning framework for rapid structural damage assessment after blast events using sensor data and drone imagery, enabling quick decision-making for post-attack operations.",
+        "keywords": ["damage assessment", "machine learning", "blast damage", "drone imagery"]
+      }
+    ],
+    "research_summary": "Dr. Deepak Tiwari specializes in protective engineering and structural dynamics for defence applications. His research focuses on designing blast-resistant structures, analyzing structural behavior under extreme loads, and developing rapid damage assessment methodologies for military infrastructure.",
+    "projects": [
+      {
+        "title": "Hardened Shelter Design for Forward Air Bases",
+        "funding_agency": "Indian Air Force",
+        "status": "completed",
+        "description": "Designed hardened aircraft shelters for forward air bases capable of withstanding blast loads from air-delivered munitions and providing protection for fighter aircraft."
+      },
+      {
+        "title": "AI-powered Structural Health Monitoring for Defence Infrastructure",
+        "funding_agency": "Military Engineer Services",
+        "status": "ongoing",
+        "description": "Implementing an AI-based structural health monitoring system for critical defence infrastructure to enable predictive maintenance and post-event damage assessment."
+      }
+    ]
+  }
+]
